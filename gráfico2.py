@@ -41,5 +41,6 @@ fig.add_trace(go.Scatter(x=month, y=media, name='Brasil',
 fig.update_layout(title='Comparação semanal dos principais destinos brasileiros',
                   xaxis_title='Semanas',
                   yaxis_title='Mudanças no interesse pelas buscas de voos (%)')
+py.plot(fig, filename='index.html')
 
 fig.show()
