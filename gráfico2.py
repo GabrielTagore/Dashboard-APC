@@ -43,5 +43,3 @@ fig.update_layout(title='Comparação semanal dos principais destinos brasileiro
                   yaxis_title='Mudanças no interesse pelas buscas de voos (%)')
 
 fig.show()
-
-py.plot(fig, filename='index.html')
