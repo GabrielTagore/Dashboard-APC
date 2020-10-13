@@ -44,4 +44,3 @@ fig.update_layout(title='Comparação semanal dos principais destinos brasileiro
 
 fig.show()
 
-py.plot(fig, filename = 'index.html')
