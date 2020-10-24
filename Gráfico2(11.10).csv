@@ -1,0 +1,806 @@
+﻿DIA;CIDADE;PCTG
+16/02/2020;Aracaju;62
+23/02/2020;Aracaju;48
+01/03/2020;Aracaju;57
+08/03/2020;Aracaju;45
+15/03/2020;Aracaju;28
+22/03/2020;Aracaju;-8
+29/03/2020;Aracaju;-45
+05/04/2020;Aracaju;-51
+12/04/2020;Aracaju;-56
+19/04/2020;Aracaju;-58
+26/04/2020;Aracaju;-71
+03/05/2020;Aracaju;-74
+10/05/2020;Aracaju;-72
+17/05/2020;Aracaju;-72
+24/05/2020;Aracaju;-72
+31/05/2020;Aracaju;-70
+07/06/2020;Aracaju;-63
+14/06/2020;Aracaju;-58
+21/06/2020;Aracaju;-61
+28/06/2020;Aracaju;-66
+05/07/2020;Aracaju;-66
+12/07/2020;Aracaju;-65
+19/07/2020;Aracaju;-63
+26/07/2020;Aracaju;-57
+02/08/2020;Aracaju;-57
+09/08/2020;Aracaju;-56
+16/08/2020;Aracaju;-44
+23/08/2020;Aracaju;-30
+30/08/2020;Aracaju;-18
+06/09/2020;Aracaju;-16
+13/09/2020;Aracaju;-26
+20/09/2020;Aracaju;-23
+27/09/2020;Aracaju;-3
+04/10/2020;Aracaju;-5
+11/10/2020;Aracaju;-3
+16/02/2020;Belém;123
+23/02/2020;Belém;89
+01/03/2020;Belém;99
+08/03/2020;Belém;78
+15/03/2020;Belém;34
+22/03/2020;Belém;20
+29/03/2020;Belém;-31
+05/04/2020;Belém;-37
+12/04/2020;Belém;-51
+19/04/2020;Belém;-49
+26/04/2020;Belém;-64
+03/05/2020;Belém;-63
+10/05/2020;Belém;-64
+17/05/2020;Belém;-66
+24/05/2020;Belém;-63
+31/05/2020;Belém;-50
+07/06/2020;Belém;-42
+14/06/2020;Belém;-45
+21/06/2020;Belém;-30
+28/06/2020;Belém;-35
+05/07/2020;Belém;-35
+12/07/2020;Belém;-31
+19/07/2020;Belém;-40
+26/07/2020;Belém;-38
+02/08/2020;Belém;-35
+09/08/2020;Belém;-33
+16/08/2020;Belém;-29
+23/08/2020;Belém;-10
+30/08/2020;Belém;-11
+06/09/2020;Belém;-12
+13/09/2020;Belém;-14
+20/09/2020;Belém;-4
+27/09/2020;Belém;-4
+04/10/2020;Belém;-4
+11/10/2020;Belém;6
+16/02/2020;Belo Horizonte;37
+23/02/2020;Belo Horizonte;31
+01/03/2020;Belo Horizonte;46
+08/03/2020;Belo Horizonte;26
+15/03/2020;Belo Horizonte;-2
+22/03/2020;Belo Horizonte;-42
+29/03/2020;Belo Horizonte;-72
+05/04/2020;Belo Horizonte;-72
+12/04/2020;Belo Horizonte;-77
+19/04/2020;Belo Horizonte;-74
+26/04/2020;Belo Horizonte;-75
+03/05/2020;Belo Horizonte;-75
+10/05/2020;Belo Horizonte;-73
+17/05/2020;Belo Horizonte;-74
+24/05/2020;Belo Horizonte;-73
+31/05/2020;Belo Horizonte;-70
+07/06/2020;Belo Horizonte;-65
+14/06/2020;Belo Horizonte;-69
+21/06/2020;Belo Horizonte;-67
+28/06/2020;Belo Horizonte;-76
+05/07/2020;Belo Horizonte;-71
+12/07/2020;Belo Horizonte;-69
+19/07/2020;Belo Horizonte;-70
+26/07/2020;Belo Horizonte;-68
+02/08/2020;Belo Horizonte;-62
+09/08/2020;Belo Horizonte;-63
+16/08/2020;Belo Horizonte;-61
+23/08/2020;Belo Horizonte;-53
+30/08/2020;Belo Horizonte;-37
+06/09/2020;Belo Horizonte;-39
+13/09/2020;Belo Horizonte;-42
+20/09/2020;Belo Horizonte;-40
+27/09/2020;Belo Horizonte;-34
+04/10/2020;Belo Horizonte;-29
+11/10/2020;Belo Horizonte;-28
+16/02/2020;Brasília;46
+23/02/2020;Brasília;27
+01/03/2020;Brasília;55
+08/03/2020;Brasília;46
+15/03/2020;Brasília;2
+22/03/2020;Brasília;-45
+29/03/2020;Brasília;-71
+05/04/2020;Brasília;-69
+12/04/2020;Brasília;-79
+19/04/2020;Brasília;-76
+26/04/2020;Brasília;-76
+03/05/2020;Brasília;-75
+10/05/2020;Brasília;-76
+17/05/2020;Brasília;-80
+24/05/2020;Brasília;-77
+31/05/2020;Brasília;-74
+07/06/2020;Brasília;-70
+14/06/2020;Brasília;-71
+21/06/2020;Brasília;-70
+28/06/2020;Brasília;-76
+05/07/2020;Brasília;-70
+12/07/2020;Brasília;-68
+19/07/2020;Brasília;-67
+26/07/2020;Brasília;-66
+02/08/2020;Brasília;-68
+09/08/2020;Brasília;-67
+16/08/2020;Brasília;-59
+23/08/2020;Brasília;-47
+30/08/2020;Brasília;-38
+06/09/2020;Brasília;-37
+13/09/2020;Brasília;-39
+20/09/2020;Brasília;-42
+27/09/2020;Brasília;-35
+04/10/2020;Brasília;-33
+11/10/2020;Brasília;-24
+16/02/2020;Curitiba;32
+23/02/2020;Curitiba;23
+01/03/2020;Curitiba;36
+08/03/2020;Curitiba;40
+15/03/2020;Curitiba;-4
+22/03/2020;Curitiba;-54
+29/03/2020;Curitiba;-69
+05/04/2020;Curitiba;-71
+12/04/2020;Curitiba;-61
+19/04/2020;Curitiba;-63
+26/04/2020;Curitiba;-70
+03/05/2020;Curitiba;-69
+10/05/2020;Curitiba;-66
+17/05/2020;Curitiba;-68
+24/05/2020;Curitiba;-67
+31/05/2020;Curitiba;-66
+07/06/2020;Curitiba;-64
+14/06/2020;Curitiba;-69
+21/06/2020;Curitiba;-66
+28/06/2020;Curitiba;-74
+05/07/2020;Curitiba;-75
+12/07/2020;Curitiba;-71
+19/07/2020;Curitiba;-72
+26/07/2020;Curitiba;-71
+02/08/2020;Curitiba;-67
+09/08/2020;Curitiba;-66
+16/08/2020;Curitiba;-62
+23/08/2020;Curitiba;-53
+30/08/2020;Curitiba;-45
+06/09/2020;Curitiba;-46
+13/09/2020;Curitiba;-42
+20/09/2020;Curitiba;-39
+27/09/2020;Curitiba;-31
+04/10/2020;Curitiba;-32
+11/10/2020;Curitiba;-32
+16/02/2020;Florianópolis;37
+23/02/2020;Florianópolis;35
+01/03/2020;Florianópolis;43
+08/03/2020;Florianópolis;28
+15/03/2020;Florianópolis;1
+22/03/2020;Florianópolis;-50
+29/03/2020;Florianópolis;-66
+05/04/2020;Florianópolis;-68
+12/04/2020;Florianópolis;-69
+19/04/2020;Florianópolis;-67
+26/04/2020;Florianópolis;-69
+03/05/2020;Florianópolis;-68
+10/05/2020;Florianópolis;-66
+17/05/2020;Florianópolis;-68
+24/05/2020;Florianópolis;-64
+31/05/2020;Florianópolis;-56
+07/06/2020;Florianópolis;-48
+14/06/2020;Florianópolis;-48
+21/06/2020;Florianópolis;-57
+28/06/2020;Florianópolis;-67
+05/07/2020;Florianópolis;-67
+12/07/2020;Florianópolis;-66
+19/07/2020;Florianópolis;-67
+26/07/2020;Florianópolis;-67
+02/08/2020;Florianópolis;-67
+09/08/2020;Florianópolis;-64
+16/08/2020;Florianópolis;-62
+23/08/2020;Florianópolis;-51
+30/08/2020;Florianópolis;-42
+06/09/2020;Florianópolis;-35
+13/09/2020;Florianópolis;-34
+20/09/2020;Florianópolis;-26
+27/09/2020;Florianópolis;-29
+04/10/2020;Florianópolis;-27
+11/10/2020;Florianópolis;-21
+16/02/2020;Fortaleza;74
+23/02/2020;Fortaleza;53
+01/03/2020;Fortaleza;73
+08/03/2020;Fortaleza;42
+15/03/2020;Fortaleza;19
+22/03/2020;Fortaleza;-29
+29/03/2020;Fortaleza;-62
+05/04/2020;Fortaleza;-61
+12/04/2020;Fortaleza;-71
+19/04/2020;Fortaleza;-70
+26/04/2020;Fortaleza;-75
+03/05/2020;Fortaleza;-75
+10/05/2020;Fortaleza;-79
+17/05/2020;Fortaleza;-79
+24/05/2020;Fortaleza;-78
+31/05/2020;Fortaleza;-76
+07/06/2020;Fortaleza;-68
+14/06/2020;Fortaleza;-69
+21/06/2020;Fortaleza;-72
+28/06/2020;Fortaleza;-71
+05/07/2020;Fortaleza;-64
+12/07/2020;Fortaleza;-65
+19/07/2020;Fortaleza;-64
+26/07/2020;Fortaleza;-63
+02/08/2020;Fortaleza;-57
+09/08/2020;Fortaleza;-53
+16/08/2020;Fortaleza;-45
+23/08/2020;Fortaleza;-35
+30/08/2020;Fortaleza;-20
+06/09/2020;Fortaleza;-17
+13/09/2020;Fortaleza;-21
+20/09/2020;Fortaleza;-18
+27/09/2020;Fortaleza;-13
+04/10/2020;Fortaleza;-3
+11/10/2020;Fortaleza;7
+16/02/2020;Foz do Iguaçu;19
+23/02/2020;Foz do Iguaçu;21
+01/03/2020;Foz do Iguaçu;19
+08/03/2020;Foz do Iguaçu;-10
+15/03/2020;Foz do Iguaçu;-32
+22/03/2020;Foz do Iguaçu;-70
+29/03/2020;Foz do Iguaçu;-78
+05/04/2020;Foz do Iguaçu;-82
+12/04/2020;Foz do Iguaçu;-85
+19/04/2020;Foz do Iguaçu;-83
+26/04/2020;Foz do Iguaçu;-84
+03/05/2020;Foz do Iguaçu;-86
+10/05/2020;Foz do Iguaçu;-88
+17/05/2020;Foz do Iguaçu;-89
+24/05/2020;Foz do Iguaçu;-87
+31/05/2020;Foz do Iguaçu;-85
+07/06/2020;Foz do Iguaçu;-84
+14/06/2020;Foz do Iguaçu;-79
+21/06/2020;Foz do Iguaçu;-83
+28/06/2020;Foz do Iguaçu;-87
+05/07/2020;Foz do Iguaçu;-85
+12/07/2020;Foz do Iguaçu;-84
+19/07/2020;Foz do Iguaçu;-83
+26/07/2020;Foz do Iguaçu;-82
+02/08/2020;Foz do Iguaçu;-82
+09/08/2020;Foz do Iguaçu;-81
+16/08/2020;Foz do Iguaçu;-79
+23/08/2020;Foz do Iguaçu;-72
+30/08/2020;Foz do Iguaçu;-69
+06/09/2020;Foz do Iguaçu;-69
+13/09/2020;Foz do Iguaçu;-67
+20/09/2020;Foz do Iguaçu;-63
+27/09/2020;Foz do Iguaçu;-62
+04/10/2020;Foz do Iguaçu;-64
+11/10/2020;Foz do Iguaçu;-62
+16/02/2020;Goiânia;58
+23/02/2020;Goiânia;47
+01/03/2020;Goiânia;67
+08/03/2020;Goiânia;44
+15/03/2020;Goiânia;13
+22/03/2020;Goiânia;-34
+29/03/2020;Goiânia;-63
+05/04/2020;Goiânia;-62
+12/04/2020;Goiânia;-74
+19/04/2020;Goiânia;-69
+26/04/2020;Goiânia;-74
+03/05/2020;Goiânia;-73
+10/05/2020;Goiânia;-71
+17/05/2020;Goiânia;-77
+24/05/2020;Goiânia;-74
+31/05/2020;Goiânia;-65
+07/06/2020;Goiânia;-62
+14/06/2020;Goiânia;-68
+21/06/2020;Goiânia;-64
+28/06/2020;Goiânia;-68
+05/07/2020;Goiânia;-71
+12/07/2020;Goiânia;-68
+19/07/2020;Goiânia;-65
+26/07/2020;Goiânia;-58
+02/08/2020;Goiânia;-59
+09/08/2020;Goiânia;-55
+16/08/2020;Goiânia;-53
+23/08/2020;Goiânia;-45
+30/08/2020;Goiânia;-35
+06/09/2020;Goiânia;-32
+13/09/2020;Goiânia;-28
+20/09/2020;Goiânia;-28
+27/09/2020;Goiânia;-24
+04/10/2020;Goiânia;-14
+11/10/2020;Goiânia;-14
+16/02/2020;João Pessoa;52
+23/02/2020;João Pessoa;36
+01/03/2020;João Pessoa;86
+08/03/2020;João Pessoa;50
+15/03/2020;João Pessoa;34
+22/03/2020;João Pessoa;-19
+29/03/2020;João Pessoa;-53
+05/04/2020;João Pessoa;-60
+12/04/2020;João Pessoa;-68
+19/04/2020;João Pessoa;-69
+26/04/2020;João Pessoa;-71
+03/05/2020;João Pessoa;-69
+10/05/2020;João Pessoa;-73
+17/05/2020;João Pessoa;-70
+24/05/2020;João Pessoa;-66
+31/05/2020;João Pessoa;-65
+07/06/2020;João Pessoa;-65
+14/06/2020;João Pessoa;-61
+21/06/2020;João Pessoa;-57
+28/06/2020;João Pessoa;-64
+05/07/2020;João Pessoa;-59
+12/07/2020;João Pessoa;-60
+19/07/2020;João Pessoa;-62
+26/07/2020;João Pessoa;-61
+02/08/2020;João Pessoa;-57
+09/08/2020;João Pessoa;-55
+16/08/2020;João Pessoa;-48
+23/08/2020;João Pessoa;-38
+30/08/2020;João Pessoa;-23
+06/09/2020;João Pessoa;-21
+13/09/2020;João Pessoa;-15
+20/09/2020;João Pessoa;-19
+27/09/2020;João Pessoa;-9
+04/10/2020;João Pessoa;4
+11/10/2020;João Pessoa;2
+16/02/2020;Maceió;68
+23/02/2020;Maceió;63
+01/03/2020;Maceió;84
+08/03/2020;Maceió;40
+15/03/2020;Maceió;17
+22/03/2020;Maceió;-29
+29/03/2020;Maceió;-60
+05/04/2020;Maceió;-65
+12/04/2020;Maceió;-65
+19/04/2020;Maceió;-70
+26/04/2020;Maceió;-63
+03/05/2020;Maceió;-72
+10/05/2020;Maceió;-68
+17/05/2020;Maceió;-75
+24/05/2020;Maceió;-77
+31/05/2020;Maceió;-76
+07/06/2020;Maceió;-66
+14/06/2020;Maceió;-66
+21/06/2020;Maceió;-68
+28/06/2020;Maceió;-75
+05/07/2020;Maceió;-71
+12/07/2020;Maceió;-71
+19/07/2020;Maceió;-67
+26/07/2020;Maceió;-60
+02/08/2020;Maceió;-62
+09/08/2020;Maceió;-56
+16/08/2020;Maceió;-45
+23/08/2020;Maceió;-36
+30/08/2020;Maceió;-23
+06/09/2020;Maceió;-20
+13/09/2020;Maceió;-16
+20/09/2020;Maceió;-18
+27/09/2020;Maceió;-17
+04/10/2020;Maceió;1
+11/10/2020;Maceió;7
+16/02/2020;Manaus;35
+23/02/2020;Manaus;39
+01/03/2020;Manaus;46
+08/03/2020;Manaus;28
+15/03/2020;Manaus;10
+22/03/2020;Manaus;-23
+29/03/2020;Manaus;-57
+05/04/2020;Manaus;-61
+12/04/2020;Manaus;-70
+19/04/2020;Manaus;-71
+26/04/2020;Manaus;-74
+03/05/2020;Manaus;-73
+10/05/2020;Manaus;-77
+17/05/2020;Manaus;-73
+24/05/2020;Manaus;-70
+31/05/2020;Manaus;-64
+07/06/2020;Manaus;-58
+14/06/2020;Manaus;-49
+21/06/2020;Manaus;-44
+28/06/2020;Manaus;-56
+05/07/2020;Manaus;-60
+12/07/2020;Manaus;-60
+19/07/2020;Manaus;-57
+26/07/2020;Manaus;-54
+02/08/2020;Manaus;-52
+09/08/2020;Manaus;-53
+16/08/2020;Manaus;-46
+23/08/2020;Manaus;-42
+30/08/2020;Manaus;-41
+06/09/2020;Manaus;-33
+13/09/2020;Manaus;-42
+20/09/2020;Manaus;-29
+27/09/2020;Manaus;-31
+04/10/2020;Manaus;-26
+11/10/2020;Manaus;-21
+16/02/2020;Natal;71
+23/02/2020;Natal;45
+01/03/2020;Natal;66
+08/03/2020;Natal;42
+15/03/2020;Natal;14
+22/03/2020;Natal;-38
+29/03/2020;Natal;-62
+05/04/2020;Natal;-60
+12/04/2020;Natal;-70
+19/04/2020;Natal;-66
+26/04/2020;Natal;-72
+03/05/2020;Natal;-73
+10/05/2020;Natal;-73
+17/05/2020;Natal;-75
+24/05/2020;Natal;-76
+31/05/2020;Natal;-71
+07/06/2020;Natal;-69
+14/06/2020;Natal;-74
+21/06/2020;Natal;-72
+28/06/2020;Natal;-76
+05/07/2020;Natal;-77
+12/07/2020;Natal;-75
+19/07/2020;Natal;-71
+26/07/2020;Natal;-63
+02/08/2020;Natal;-60
+09/08/2020;Natal;-57
+16/08/2020;Natal;-51
+23/08/2020;Natal;-41
+30/08/2020;Natal;-28
+06/09/2020;Natal;-22
+13/09/2020;Natal;-12
+20/09/2020;Natal;-20
+27/09/2020;Natal;-8
+04/10/2020;Natal;1
+11/10/2020;Natal;16
+16/02/2020;Navegantes;67
+23/02/2020;Navegantes;61
+01/03/2020;Navegantes;76
+08/03/2020;Navegantes;54
+15/03/2020;Navegantes;36
+22/03/2020;Navegantes;-37
+29/03/2020;Navegantes;-63
+05/04/2020;Navegantes;-72
+12/04/2020;Navegantes;-74
+19/04/2020;Navegantes;-76
+26/04/2020;Navegantes;-75
+03/05/2020;Navegantes;-75
+10/05/2020;Navegantes;-75
+17/05/2020;Navegantes;-74
+24/05/2020;Navegantes;-65
+31/05/2020;Navegantes;-69
+07/06/2020;Navegantes;-61
+14/06/2020;Navegantes;-60
+21/06/2020;Navegantes;-60
+28/06/2020;Navegantes;-67
+05/07/2020;Navegantes;-67
+12/07/2020;Navegantes;-68
+19/07/2020;Navegantes;-70
+26/07/2020;Navegantes;-69
+02/08/2020;Navegantes;-68
+09/08/2020;Navegantes;-67
+16/08/2020;Navegantes;-59
+23/08/2020;Navegantes;-55
+30/08/2020;Navegantes;-45
+06/09/2020;Navegantes;-47
+13/09/2020;Navegantes;-33
+20/09/2020;Navegantes;-28
+27/09/2020;Navegantes;-26
+04/10/2020;Navegantes;-22
+11/10/2020;Navegantes;-10
+16/02/2020;Porto Alegre;35
+23/02/2020;Porto Alegre;26
+01/03/2020;Porto Alegre;57
+08/03/2020;Porto Alegre;29
+15/03/2020;Porto Alegre;-12
+22/03/2020;Porto Alegre;-51
+29/03/2020;Porto Alegre;-74
+05/04/2020;Porto Alegre;-73
+12/04/2020;Porto Alegre;-77
+19/04/2020;Porto Alegre;-75
+26/04/2020;Porto Alegre;-75
+03/05/2020;Porto Alegre;-77
+10/05/2020;Porto Alegre;-74
+17/05/2020;Porto Alegre;-78
+24/05/2020;Porto Alegre;-73
+31/05/2020;Porto Alegre;-71
+07/06/2020;Porto Alegre;-65
+14/06/2020;Porto Alegre;-64
+21/06/2020;Porto Alegre;-69
+28/06/2020;Porto Alegre;-72
+05/07/2020;Porto Alegre;-69
+12/07/2020;Porto Alegre;-65
+19/07/2020;Porto Alegre;-70
+26/07/2020;Porto Alegre;-69
+02/08/2020;Porto Alegre;-69
+09/08/2020;Porto Alegre;-65
+16/08/2020;Porto Alegre;-59
+23/08/2020;Porto Alegre;-43
+30/08/2020;Porto Alegre;-38
+06/09/2020;Porto Alegre;-35
+13/09/2020;Porto Alegre;-31
+20/09/2020;Porto Alegre;-28
+27/09/2020;Porto Alegre;-27
+04/10/2020;Porto Alegre;-26
+11/10/2020;Porto Alegre;-11
+16/02/2020;Recife;58
+23/02/2020;Recife;54
+01/03/2020;Recife;71
+08/03/2020;Recife;49
+15/03/2020;Recife;33
+22/03/2020;Recife;-28
+29/03/2020;Recife;-56
+05/04/2020;Recife;-65
+12/04/2020;Recife;-69
+19/04/2020;Recife;-69
+26/04/2020;Recife;-77
+03/05/2020;Recife;-75
+10/05/2020;Recife;-78
+17/05/2020;Recife;-78
+24/05/2020;Recife;-79
+31/05/2020;Recife;-74
+07/06/2020;Recife;-70
+14/06/2020;Recife;-68
+21/06/2020;Recife;-63
+28/06/2020;Recife;-66
+05/07/2020;Recife;-67
+12/07/2020;Recife;-66
+19/07/2020;Recife;-61
+26/07/2020;Recife;-58
+02/08/2020;Recife;-53
+09/08/2020;Recife;-49
+16/08/2020;Recife;-39
+23/08/2020;Recife;-28
+30/08/2020;Recife;-21
+06/09/2020;Recife;-12
+13/09/2020;Recife;-15
+20/09/2020;Recife;-15
+27/09/2020;Recife;-16
+04/10/2020;Recife;-7
+11/10/2020;Recife;8
+16/02/2020;Rio de Janeiro;33
+23/02/2020;Rio de Janeiro;23
+01/03/2020;Rio de Janeiro;29
+08/03/2020;Rio de Janeiro;16
+15/03/2020;Rio de Janeiro;-8
+22/03/2020;Rio de Janeiro;-59
+29/03/2020;Rio de Janeiro;-75
+05/04/2020;Rio de Janeiro;-76
+12/04/2020;Rio de Janeiro;-81
+19/04/2020;Rio de Janeiro;-80
+26/04/2020;Rio de Janeiro;-83
+03/05/2020;Rio de Janeiro;-84
+10/05/2020;Rio de Janeiro;-84
+17/05/2020;Rio de Janeiro;-85
+24/05/2020;Rio de Janeiro;-84
+31/05/2020;Rio de Janeiro;-81
+07/06/2020;Rio de Janeiro;-77
+14/06/2020;Rio de Janeiro;-78
+21/06/2020;Rio de Janeiro;-75
+28/06/2020;Rio de Janeiro;-78
+05/07/2020;Rio de Janeiro;-77
+12/07/2020;Rio de Janeiro;-74
+19/07/2020;Rio de Janeiro;-72
+26/07/2020;Rio de Janeiro;-70
+02/08/2020;Rio de Janeiro;-69
+09/08/2020;Rio de Janeiro;-69
+16/08/2020;Rio de Janeiro;-64
+23/08/2020;Rio de Janeiro;-52
+30/08/2020;Rio de Janeiro;-45
+06/09/2020;Rio de Janeiro;-45
+13/09/2020;Rio de Janeiro;-44
+20/09/2020;Rio de Janeiro;-41
+27/09/2020;Rio de Janeiro;-35
+04/10/2020;Rio de Janeiro;-29
+11/10/2020;Rio de Janeiro;-21
+16/02/2020;Salvador;35
+23/02/2020;Salvador;32
+01/03/2020;Salvador;21
+08/03/2020;Salvador;20
+15/03/2020;Salvador;0
+22/03/2020;Salvador;-45
+29/03/2020;Salvador;-68
+05/04/2020;Salvador;-69
+12/04/2020;Salvador;-74
+19/04/2020;Salvador;-75
+26/04/2020;Salvador;-79
+03/05/2020;Salvador;-81
+10/05/2020;Salvador;-81
+17/05/2020;Salvador;-80
+24/05/2020;Salvador;-80
+31/05/2020;Salvador;-81
+07/06/2020;Salvador;-76
+14/06/2020;Salvador;-74
+21/06/2020;Salvador;-72
+28/06/2020;Salvador;-77
+05/07/2020;Salvador;-74
+12/07/2020;Salvador;-72
+19/07/2020;Salvador;-72
+26/07/2020;Salvador;-70
+02/08/2020;Salvador;-69
+09/08/2020;Salvador;-67
+16/08/2020;Salvador;-62
+23/08/2020;Salvador;-49
+30/08/2020;Salvador;-41
+06/09/2020;Salvador;-35
+13/09/2020;Salvador;-35
+20/09/2020;Salvador;-33
+27/09/2020;Salvador;-30
+04/10/2020;Salvador;-23
+11/10/2020;Salvador;-20
+16/02/2020;São Luís;63
+23/02/2020;São Luís;26
+01/03/2020;São Luís;60
+08/03/2020;São Luís;32
+15/03/2020;São Luís;10
+22/03/2020;São Luís;-16
+29/03/2020;São Luís;-53
+05/04/2020;São Luís;-56
+12/04/2020;São Luís;-63
+19/04/2020;São Luís;-65
+26/04/2020;São Luís;-69
+03/05/2020;São Luís;-67
+10/05/2020;São Luís;-74
+17/05/2020;São Luís;-78
+24/05/2020;São Luís;-75
+31/05/2020;São Luís;-67
+07/06/2020;São Luís;-68
+14/06/2020;São Luís;-58
+21/06/2020;São Luís;-51
+28/06/2020;São Luís;-59
+05/07/2020;São Luís;-45
+12/07/2020;São Luís;-56
+19/07/2020;São Luís;-64
+26/07/2020;São Luís;-57
+02/08/2020;São Luís;-59
+09/08/2020;São Luís;-50
+16/08/2020;São Luís;-37
+23/08/2020;São Luís;-24
+30/08/2020;São Luís;-18
+06/09/2020;São Luís;-22
+13/09/2020;São Luís;-5
+20/09/2020;São Luís;-2
+27/09/2020;São Luís;-11
+04/10/2020;São Luís;1
+11/10/2020;São Luís;19
+16/02/2020;São Paulo;44
+23/02/2020;São Paulo;31
+01/03/2020;São Paulo;69
+08/03/2020;São Paulo;46
+15/03/2020;São Paulo;6
+22/03/2020;São Paulo;-48
+29/03/2020;São Paulo;-73
+05/04/2020;São Paulo;-75
+12/04/2020;São Paulo;-81
+19/04/2020;São Paulo;-81
+26/04/2020;São Paulo;-82
+03/05/2020;São Paulo;-82
+10/05/2020;São Paulo;-82
+17/05/2020;São Paulo;-81
+24/05/2020;São Paulo;-79
+31/05/2020;São Paulo;-76
+07/06/2020;São Paulo;-73
+14/06/2020;São Paulo;-70
+21/06/2020;São Paulo;-71
+28/06/2020;São Paulo;-76
+05/07/2020;São Paulo;-72
+12/07/2020;São Paulo;-72
+19/07/2020;São Paulo;-73
+26/07/2020;São Paulo;-70
+02/08/2020;São Paulo;-67
+09/08/2020;São Paulo;-67
+16/08/2020;São Paulo;-61
+23/08/2020;São Paulo;-48
+30/08/2020;São Paulo;-39
+06/09/2020;São Paulo;-40
+13/09/2020;São Paulo;-38
+20/09/2020;São Paulo;-36
+27/09/2020;São Paulo;-32
+04/10/2020;São Paulo;-31
+11/10/2020;São Paulo;-27
+16/02/2020;Teresina;75
+23/02/2020;Teresina;64
+01/03/2020;Teresina;80
+08/03/2020;Teresina;56
+15/03/2020;Teresina;35
+22/03/2020;Teresina;-3
+29/03/2020;Teresina;-39
+05/04/2020;Teresina;-49
+12/04/2020;Teresina;-57
+19/04/2020;Teresina;-51
+26/04/2020;Teresina;-53
+03/05/2020;Teresina;-53
+10/05/2020;Teresina;-62
+17/05/2020;Teresina;-63
+24/05/2020;Teresina;-60
+31/05/2020;Teresina;-65
+07/06/2020;Teresina;-56
+14/06/2020;Teresina;-53
+21/06/2020;Teresina;-59
+28/06/2020;Teresina;-60
+05/07/2020;Teresina;-52
+12/07/2020;Teresina;-53
+19/07/2020;Teresina;-50
+26/07/2020;Teresina;-46
+02/08/2020;Teresina;-39
+09/08/2020;Teresina;-50
+16/08/2020;Teresina;-55
+23/08/2020;Teresina;-33
+30/08/2020;Teresina;-28
+06/09/2020;Teresina;-24
+13/09/2020;Teresina;-7
+20/09/2020;Teresina;10
+27/09/2020;Teresina;-1
+04/10/2020;Teresina;-10
+11/10/2020;Teresina;4
+16/02/2020;Vitória;13
+23/02/2020;Vitória;7
+01/03/2020;Vitória;37
+08/03/2020;Vitória;45
+15/03/2020;Vitória;7
+22/03/2020;Vitória;-34
+29/03/2020;Vitória;-67
+05/04/2020;Vitória;-69
+12/04/2020;Vitória;-76
+19/04/2020;Vitória;-71
+26/04/2020;Vitória;-71
+03/05/2020;Vitória;-74
+10/05/2020;Vitória;-75
+17/05/2020;Vitória;-72
+24/05/2020;Vitória;-70
+31/05/2020;Vitória;-70
+07/06/2020;Vitória;-68
+14/06/2020;Vitória;-70
+21/06/2020;Vitória;-69
+28/06/2020;Vitória;-72
+05/07/2020;Vitória;-68
+12/07/2020;Vitória;-70
+19/07/2020;Vitória;-66
+26/07/2020;Vitória;-64
+02/08/2020;Vitória;-64
+09/08/2020;Vitória;-63
+16/08/2020;Vitória;-61
+23/08/2020;Vitória;-50
+30/08/2020;Vitória;-46
+06/09/2020;Vitória;-38
+13/09/2020;Vitória;-33
+20/09/2020;Vitória;-29
+27/09/2020;Vitória;-23
+04/10/2020;Vitória;-29
+11/10/2020;Vitória;-20
+16/02/2020;Brasil;52
+23/02/2020;Brasil;40
+01/03/2020;Brasil;58
+08/03/2020;Brasil;38
+15/03/2020;Brasil;11
+22/03/2020;Brasil;-34
+29/03/2020;Brasil;-62
+05/04/2020;Brasil;-65
+12/04/2020;Brasil;-70
+19/04/2020;Brasil;-69
+26/04/2020;Brasil;-73
+03/05/2020;Brasil;-73
+10/05/2020;Brasil;-74
+17/05/2020;Brasil;-75
+24/05/2020;Brasil;-73
+31/05/2020;Brasil;-70
+07/06/2020;Brasil;-65
+14/06/2020;Brasil;-65
+21/06/2020;Brasil;-64
+28/06/2020;Brasil;-69
+05/07/2020;Brasil;-69
+12/07/2020;Brasil;-66
+19/07/2020;Brasil;-66
+26/07/2020;Brasil;-63
+02/08/2020;Brasil;-61
+09/08/2020;Brasil;-59
+16/08/2020;Brasil;-54
+23/08/2020;Brasil;-43
+30/08/2020;Brasil;-34
+06/09/2020;Brasil;-32
+13/09/2020;Brasil;-29
+20/09/2020;Brasil;-26
+27/09/2020;Brasil;-23
+04/10/2020;Brasil;-19
+11/10/2020;Brasil;-11
