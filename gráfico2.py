@@ -1,5 +1,4 @@
 import pandas as pd
-import plotly
 import plotly.express as px
 import dash
 import dash_core_components as dcc
@@ -20,7 +19,7 @@ app.layout = html.Div([
                    style={'font-weight': 'bold'}),
         dcc.Dropdown(id='cidades',
                      options=[{'label': x, 'value': x}
-                              for x in df.sort_values('CIDADE')['CIDADE'].unique()],
+                              for x in df['CIDADE'].unique()],
                      value=['Brasil'],
                      multi=True,
                      disabled=False,
