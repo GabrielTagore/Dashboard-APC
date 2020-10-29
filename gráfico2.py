@@ -14,7 +14,6 @@ app.layout = html.Div([
     html.Div([
         html.H1(
             children='As tendências de buscas de viagens durante a pandemia do COVID19'),
-        html.Br(),
         html.Label(['Escolha as cidades para comparar:'],
                    style={'font-weight': 'bold'}),
         dcc.Dropdown(id='cidades',
