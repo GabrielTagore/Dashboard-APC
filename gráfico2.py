@@ -4,10 +4,11 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+import plotly.graph_objects as go
 
 app = dash.Dash(__name__)
 
-df = pd.read_csv('Gráfico2(11.10).csv', encoding='UTF-8', sep=';')
+df = pd.read_csv('Gráfico2(01.11).csv', encoding='UTF-8', sep=';')
 
 
 app.layout = html.Div([
@@ -36,12 +37,12 @@ app.layout = html.Div([
 )
 def update_graph(cidades):
     dff = df.loc[df['CIDADE'].isin(cidades)]
-    fig = px.line(data_frame=dff, x="DIA", y="PCTG",
+    fig = px.line(data_frame=dff, x='DIA', y='PCTG',
                   color='CIDADE')
     fig.update_layout(title={'text': 'Comparação semanal dos principais destinos brasileiros:',
                              'font': {'size': 20}, 'x': 0.5, 'xanchor': 'center'},
-                      xaxis_title='Semanas',
-                      yaxis_title='Mudanças no interesse pelas buscas de voos (%)')
+                      xaxis_title='<b>Semanas de 2020<b>',
+                      yaxis_title='<b>Mudanças no interesse pelas buscas de voos (%)<b>')
     return fig
 
 
